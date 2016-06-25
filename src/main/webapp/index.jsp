@@ -11,7 +11,6 @@
 	 c.本Demo-auth2Demo(ResourceServer&AuthorizationServer),
 	   resource是一个controller：http://localhost:8080/resource/getUserInfo
 	</pre>
-
 	
 	<pre>
 
