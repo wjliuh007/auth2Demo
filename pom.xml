@@ -10,7 +10,7 @@
 	<name>auth2Demo</name>
 	<url>http://maven.apache.org</url>
 	<properties>
-		<moduleName>activity</moduleName>
+		<moduleName>auth2Demo</moduleName>
 	</properties>
 	<dependencies>
 		<dependency>
